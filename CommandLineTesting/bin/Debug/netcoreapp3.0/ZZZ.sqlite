@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Sausa>
+  <ProjName>
+    <Name Name="Hangerbay" />
+  </ProjName>
+  <Storage>
+    <Dimensions Length="10500" Width="9500" Height="99999" Weight="10000" />
+  </Storage>
+  <ExternalDatabase>
+    <Data Type="MySQL" Server="MYSQL5022.site4now.net" Database="db_a4733c_sausa" UserID="a4733c_sausa" Password="Sausa#1test" />
+  </ExternalDatabase>
+  <Stacks>
+    <Data TableName="ZZZ" FileName="ZZZ.sqlite" />
+  </Stacks>
+</Sausa>
